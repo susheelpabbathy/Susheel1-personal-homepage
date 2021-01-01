@@ -10,11 +10,14 @@
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
-	],
+		"The Department of Information Technology was started in the year 2001 with an initial intake of 60 B. Tech. students. Subsequently, the intake was increased to 180. The Department also offers an M.Tech. in Data Sciences with an intake of 18. The Department was accredited by NBA, AICTE in the year 2007 and reaccredited in the years 2013 and 2018. The Department is headed by Dr. Bipin Bihari Jayasingh.  All faculty members have an M. Tech. in Computer Science, with a minimum of about 4 years of teaching experience at the Assistant Professor level, which is an entry level requirement for recruitment to the department. The faculty consists of a good mix of individuals with industry and academic experience. The Department also has a high faculty retention rate.",
+		"The Department offers courses to the students of IT as well as some subjects of specialization to other departments. For First Year students of all branches of Engineering, the Department offers the subjects “Problem Solving through C”, “Data Structures through C”,  “IT Workshop Laboratory”.  The Department has expertise in the areas of Software Engineering, Real Time Systems, Databases, Operating Systems, Computer Architecture, Embedded Systems, Distributed Systems, Scripting Languages, middleware technologies, Cloud Computing, Network Security, Big Data and IoT among various other subjects regularly offered by the Department.",
+		"The Department has eight laboratory units consisting of 260 systems, catering to the B. Tech curriculum. The systems use standard licensed software as a college policy including open source.",
+		"The Professors of the department are ",
+		"1.  Dr. Bipin Bihari Jayasingh, Professor and Head of the Department,  has 15 years of teaching and  4 years of industry experience. He has completed his Ph.D. in Cyber Forensics under MHA, Directorate of Forensic Science, Government of India. He has published about 59 research papers in various International/national Conferences and Journals.",
+		"2. Prof. U.V. Ramana Sarma, formerly with ECIL, was a visiting Professor at Bright Star University in Libya and Professor in CSE and Principal, Anwar-ul-uloom College of Engineering; has 12 years of industry and 27 years of teaching experience.",
+		"3. Dr. R. Seetharamaiah has 20 years of industry experience, including with ECIL. He has completed his Ph.D. in Distributed Computing from University of Hyderabad."
+	]
 
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
@@ -24,7 +27,7 @@
 	"InternShips": [{
 			"name": "Amazon India",
 			"link": "#"
-		},
+		},//
 		{
 			"name": "North-Eastern Space Application Center (ISRO)",
 			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"

@@ -2,10 +2,10 @@
 	"Title": "SUSHEEL | Personal Webpage",
 	"Name": "IT",
 	"Description": [
-		"INFORMATION TECHNOLOGY",
+		"Susheel Pabbathy",
 		"Information technology is the study, design, development, implementation, support or management of computer-based information systems."
 	],
-	"MainImage": "https://imgur.com/undefined",
+	"MainImage": "https://imgur.com/cIbEW6v",
 	"BackgroundURL": "",
 
 	"AboutImage": "https://imgur.com/ahvfM0P",
@@ -21,21 +21,6 @@
 
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
-	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
-	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
-		},
-		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
